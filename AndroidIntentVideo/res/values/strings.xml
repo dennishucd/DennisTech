@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello Android Video via Intent!</string>
+    <string name="app_name">AndroidItentVideo</string>
+
+</resources>

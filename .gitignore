@@ -1,3 +1,6 @@
 .ssh/
 bin/
 gen/
+*.o
+*.d
+obj/
